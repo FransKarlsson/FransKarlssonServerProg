@@ -1,0 +1,14 @@
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.csproj.AssemblyReference.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.AssemblyInfoInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.AssemblyInfo.cs
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.csproj.CoreCompileInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.exe
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.deps.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.runtimeconfig.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.runtimeconfig.dev.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\bin\Debug\netcoreapp3.1\Öva.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\Öva\Öva\obj\Debug\netcoreapp3.1\Öva.genruntimeconfig.cache

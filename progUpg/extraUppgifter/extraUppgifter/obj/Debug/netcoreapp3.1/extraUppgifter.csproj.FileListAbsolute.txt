@@ -1,0 +1,14 @@
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.exe
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.deps.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.runtimeconfig.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.runtimeconfig.dev.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\bin\Debug\netcoreapp3.1\extraUppgifter.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.csproj.AssemblyReference.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.AssemblyInfoInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.AssemblyInfo.cs
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.csproj.CoreCompileInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\progUpg\extraUppgifter\extraUppgifter\obj\Debug\netcoreapp3.1\extraUppgifter.genruntimeconfig.cache
