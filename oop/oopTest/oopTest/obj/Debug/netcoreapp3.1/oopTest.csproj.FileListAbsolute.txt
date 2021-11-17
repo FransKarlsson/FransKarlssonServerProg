@@ -1,0 +1,14 @@
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.exe
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.deps.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.runtimeconfig.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.runtimeconfig.dev.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\bin\Debug\netcoreapp3.1\oopTest.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.csproj.AssemblyReference.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.AssemblyInfoInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.AssemblyInfo.cs
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.csproj.CoreCompileInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopTest\oopTest\obj\Debug\netcoreapp3.1\oopTest.genruntimeconfig.cache

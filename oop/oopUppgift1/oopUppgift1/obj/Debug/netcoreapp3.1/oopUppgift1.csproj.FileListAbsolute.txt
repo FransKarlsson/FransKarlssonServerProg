@@ -1,0 +1,14 @@
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.exe
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.deps.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.runtimeconfig.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.runtimeconfig.dev.json
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\bin\Debug\netcoreapp3.1\oopUppgift1.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.csproj.AssemblyReference.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.AssemblyInfoInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.AssemblyInfo.cs
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.csproj.CoreCompileInputs.cache
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.dll
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.pdb
+C:\Users\frans.karlsson\Documents\GitHub\FransKarlssonServerProg\oop\oopUppgift1\oopUppgift1\obj\Debug\netcoreapp3.1\oopUppgift1.genruntimeconfig.cache
